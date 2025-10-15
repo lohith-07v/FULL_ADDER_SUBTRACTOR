@@ -50,6 +50,48 @@ Write the detailed procedure here
 **RTL Schematic**
 
 **Output Timing Waveform**
+Logic Diagram 1:
+![EXP04 LOGIC DIAGRAM 1](https://github.com/user-attachments/assets/90b2de73-ed83-4d55-bdb8-68af12f03728)
+
+
+
+
+
+
+
+
+
+State Diagram 1:
+![EXP04 STATE DIAGRAM 1](https://github.com/user-attachments/assets/814236fb-2405-4061-aa6f-ed839e8e0c13)
+
+
+
+
+
+
+
+
+
+
+Logic Diagram 2:
+![EXP04 LOGIC DIAGRAM 2](https://github.com/user-attachments/assets/c2bae567-5faa-4c91-b138-f36d6a8b9e37)
+
+
+
+
+
+
+
+
+
+State Diagram 2:
+![EXP04 STATE DIAGRAM 2](https://github.com/user-attachments/assets/1c9de297-5013-4fd5-b9a7-178923559497)
+
+
+
+
+
+
 
 **Result:**
 
